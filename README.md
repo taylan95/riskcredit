@@ -1,16 +1,16 @@
-###Hi there, I am Taylan.
-##I am interested in data science and I keep improving my skills.
+### Hi there, I am Taylan.
+## I am interested in data science and I keep improving my skills.
 -I am eager and curious to learn new things.
 -2020 Goals: Taking part in projects where I can improve my skills and contribute
 -Fun fact: I love play guitar
 
-#German Credit Data-Analysis
+# German Credit Data-Analysis
 
  The data set consists of 1000 lines of categorical and numerical values.
  In this data set, the target variable is the Risk variable.
  The variable is 1 for the good ones and 0 for the bad ones.
 
-#Content
+# Content
 
 * Age (numeric)
 * Sex (text: male, female)
